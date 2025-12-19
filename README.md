@@ -6,37 +6,27 @@ Find bellow the highlights of skills I have applied so far:
 ## 🧩 Professional Summary: 
 <br/>
 
-• 6+ years of experience as a ETL/Data Engineering using SSAS/SQL
+Software Engineer with 6+ years of experience designing and delivering scalable backend systems, data pipelines, and full-stack solutions for Fortune 500 companies (Ford, Ambev, Intel). Master's in Data Science & Analytics (IME-USP). Proven expertise in Python, Java, microservices architectures, Azure cloud platforms, and ML/AI implementations.
 
-• Udemy Power BI Instructor
+Core Competencies: Python | Java | TypeScript | Node.js | React | Angular | SQL | NoSQL | Databricks | Azure | GCP | Docker | Kubernetes | CI/CD | Machine Learning | Deep Learning | RESTful APIs | ETL/Data Pipelines
 
-• Microsoft Azure experience including Databricks, Python, Spark, SparkSQL
-
-• Experience in Business Intelligence building Data Products that are used by various 
-teams.
-
-• +5 years of experience as a Architect, design, and develop end-to-end business 
-intelligence solutions using Power BI.
-
-• Strong SQL skills for data retrieval and manipulation.
-
-• Experience with data warehousing concepts, ETL processes, and cloud-based data 
-platforms (Azure)
-
-• Experience with Python
-
-• Implement CI/CD pipelines that enables automated code deploymen
+Career Goal: Secure a Full-Stack or Backend Software Engineer role at an innovative tech company in the USA or Spain, contributing to high-impact products while continuing to grow expertise in cloud-native architectures and machine learning systems.
 
 <a id="Top Skills"></a>
 ## 🚀 Top Skills 
+⭐ Python (Advanced)
+
+⭐ Angular (Advanced)
+
+⭐ NodeJs(Advanced)
+
+⭐ Google Cloud Plattform(GCP)
 
 ⭐ Microsoft SQL Server Integration Services (SSIS) (Advanced)
  
 ⭐Microsoft SQL Server Analysis Services (SSAS) (Advanced)
 
-⭐Microsoft Power BI ((Advanced)
-
-⭐Python (Advanced)
+⭐Microsoft Power BI (Advanced)
 
 ⭐Databricks(Advanced)
 
